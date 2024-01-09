@@ -1,0 +1,1 @@
+Comparto mi primera aplicación en Go, he creado un CLI o aplicacion de consola que te permita guardar tareas en tu computadora desde la terminal. Este programa tendrá las operaciones CRUD y también lo podrás instalar en tu propia computadora para listar tareas.
